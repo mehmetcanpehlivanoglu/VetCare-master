@@ -209,7 +209,7 @@ const RegisterPage = () => {
             </Button>
             <Box sx={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', justifyContent: 'center' }}>
               <Typography variant='body2' sx={{ marginRight: 2 }}>
-                Already have an account?
+                Already have an account??
               </Typography>
               <Typography variant='body2'>
                 <Link passHref href='/pages/login'>
